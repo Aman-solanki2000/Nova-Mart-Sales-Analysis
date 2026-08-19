@@ -1,0 +1,201 @@
+Return_ID,Order_ID,Return_Reason,Refund_Amount,Return_Status
+RET0001,ORD2400204,Late Delivery,4911,Rejected
+RET0002,ORD2400503,Damaged Product,6852,Rejected
+RET0003,ORD2500942,Late Delivery,4456,Rejected
+RET0004,ORD2400197,Wrong Item,11622,Rejected
+RET0005,ORD2500628,Defective,4602,Approved
+RET0006,ORD2400582,Wrong Item,9347,Pending
+RET0007,ORD2500953,Damaged Product,10130,Approved
+RET0008,ORD2400556,Customer Changed Mind,6496,Approved
+RET0009,ORD2400379,Wrong Item,3306,Rejected
+RET0010,ORD2500663,Wrong Item,2325,Approved
+RET0011,ORD2400098,Customer Changed Mind,10431,Approved
+RET0012,ORD2500644,Defective,5469,Rejected
+RET0013,ORD2500474,Customer Changed Mind,2482,Pending
+RET0014,ORD2500410,Customer Changed Mind,6504,Rejected
+RET0015,ORD2500728,Customer Changed Mind,10537,Approved
+RET0016,ORD2400561,Damaged Product,11859,Approved
+RET0017,ORD2500187,Damaged Product,1910,Rejected
+RET0018,ORD2500594,Damaged Product,7052,Approved
+RET0019,ORD2500594,Damaged Product,3448,Approved
+RET0020,ORD2400423,Defective,1674,Approved
+RET0021,ORD2400151,Defective,3247,Rejected
+RET0022,ORD2400633,Customer Changed Mind,1580,Pending
+RET0023,ORD2400452,Customer Changed Mind,8586,Approved
+RET0024,ORD2500273,Late Delivery,647,Pending
+RET0025,ORD2500157,Defective,2305,Approved
+RET0026,ORD2500912,Late Delivery,6186,Approved
+RET0027,ORD2400882,Defective,880,Pending
+RET0028,ORD2400141,Late Delivery,9435,Approved
+RET0029,ORD2500841,Defective,2123,Pending
+RET0030,ORD2500758,Late Delivery,9137,Approved
+RET0031,ORD2500047,Defective,8397,Rejected
+RET0032,ORD2500753,Defective,3059,Approved
+RET0033,ORD2400494,Damaged Product,2429,Pending
+RET0034,ORD2400194,Damaged Product,10573,Rejected
+RET0035,ORD2400631,Defective,2677,Pending
+RET0036,ORD2400309,Customer Changed Mind,2784,Pending
+RET0037,ORD2500909,Damaged Product,9294,Approved
+RET0038,ORD2400694,Damaged Product,7165,Pending
+RET0039,ORD2400433,Wrong Item,774,Approved
+RET0040,ORD2500515,Late Delivery,9879,Rejected
+RET0041,ORD2400590,Defective,7493,Approved
+RET0042,ORD2500088,Wrong Item,5848,Approved
+RET0043,ORD2500344,Customer Changed Mind,5413,Rejected
+RET0044,ORD2400493,Customer Changed Mind,10922,Rejected
+RET0045,ORD2400600,Customer Changed Mind,4443,Rejected
+RET0046,ORD2500156,Wrong Item,10351,Pending
+RET0047,ORD2400672,Damaged Product,859,Rejected
+RET0048,ORD2400556,Defective,2309,Pending
+RET0049,ORD2500355,Customer Changed Mind,11940,Rejected
+RET0050,ORD2500525,Customer Changed Mind,9633,Pending
+RET0051,ORD2400977,Late Delivery,2180,Approved
+RET0052,ORD2400833,Defective,9989,Pending
+RET0053,ORD2400794,Late Delivery,5116,Pending
+RET0054,ORD2500335,Wrong Item,8395,Pending
+RET0055,ORD2500059,Defective,8955,Rejected
+RET0056,ORD2500084,Wrong Item,11147,Pending
+RET0057,ORD2400158,Defective,8618,Rejected
+RET0058,ORD2500771,Customer Changed Mind,6438,Pending
+RET0059,ORD2500947,Customer Changed Mind,6328,Approved
+RET0060,ORD2500599,Wrong Item,2345,Approved
+RET0061,ORD2500263,Wrong Item,7659,Approved
+RET0062,ORD2400494,Late Delivery,9234,Rejected
+RET0063,ORD2400886,Customer Changed Mind,8981,Approved
+RET0064,ORD2400032,Late Delivery,4165,Rejected
+RET0065,ORD2500670,Wrong Item,8294,Pending
+RET0066,ORD2500088,Customer Changed Mind,6332,Rejected
+RET0067,ORD2400173,Late Delivery,4014,Approved
+RET0068,ORD2400773,Customer Changed Mind,4632,Rejected
+RET0069,ORD2500472,Wrong Item,1377,Approved
+RET0070,ORD2401000,Wrong Item,11715,Rejected
+RET0071,ORD2500912,Damaged Product,2382,Approved
+RET0072,ORD2500881,Defective,8372,Pending
+RET0073,ORD2500993,Wrong Item,3546,Approved
+RET0074,ORD2400249,Late Delivery,11220,Pending
+RET0075,ORD2500515,Wrong Item,10310,Rejected
+RET0076,ORD2500390,Defective,9526,Pending
+RET0077,ORD2400147,Defective,7802,Approved
+RET0078,ORD2500491,Damaged Product,4590,Rejected
+RET0079,ORD2500371,Damaged Product,4420,Pending
+RET0080,ORD2500085,Late Delivery,7792,Pending
+RET0081,ORD2500860,Late Delivery,3632,Pending
+RET0082,ORD2500614,Damaged Product,9854,Approved
+RET0083,ORD2400374,Defective,9191,Rejected
+RET0084,ORD2400269,Defective,11480,Pending
+RET0085,ORD2500228,Customer Changed Mind,3801,Pending
+RET0086,ORD2500322,Customer Changed Mind,11666,Pending
+RET0087,ORD2500098,Late Delivery,7919,Approved
+RET0088,ORD2400444,Damaged Product,11584,Approved
+RET0089,ORD2400910,Defective,10118,Rejected
+RET0090,ORD2400252,Wrong Item,7148,Pending
+RET0091,ORD2400710,Damaged Product,6773,Approved
+RET0092,ORD2400745,Customer Changed Mind,5437,Rejected
+RET0093,ORD2400513,Late Delivery,8517,Pending
+RET0094,ORD2500088,Customer Changed Mind,7959,Approved
+RET0095,ORD2400855,Defective,849,Pending
+RET0096,ORD2400895,Wrong Item,10419,Rejected
+RET0097,ORD2500481,Wrong Item,5115,Pending
+RET0098,ORD2500098,Wrong Item,3232,Rejected
+RET0099,ORD2500690,Customer Changed Mind,1062,Rejected
+RET0100,ORD2500849,Customer Changed Mind,3285,Approved
+RET0101,ORD2400028,Damaged Product,6918,Rejected
+RET0102,ORD2400776,Defective,10858,Pending
+RET0103,ORD2500278,Damaged Product,10728,Approved
+RET0104,ORD2400782,Defective,6722,Rejected
+RET0105,ORD2500629,Defective,10180,Approved
+RET0106,ORD2500809,Defective,2921,Rejected
+RET0107,ORD2400727,Customer Changed Mind,3574,Pending
+RET0108,ORD2500719,Damaged Product,7557,Approved
+RET0109,ORD2500950,Customer Changed Mind,4858,Pending
+RET0110,ORD2500069,Wrong Item,1593,Rejected
+RET0111,ORD2400084,Defective,4757,Approved
+RET0112,ORD2500123,Wrong Item,3751,Approved
+RET0113,ORD2500458,Customer Changed Mind,5858,Approved
+RET0114,ORD2500428,Customer Changed Mind,10177,Approved
+RET0115,ORD2400199,Damaged Product,4389,Pending
+RET0116,ORD2500109,Defective,9698,Pending
+RET0117,ORD2400941,Wrong Item,1699,Rejected
+RET0118,ORD2400893,Damaged Product,5069,Approved
+RET0119,ORD2400990,Damaged Product,9885,Pending
+RET0120,ORD2500264,Defective,6811,Approved
+RET0121,ORD2500332,Wrong Item,5920,Approved
+RET0122,ORD2400775,Damaged Product,9328,Pending
+RET0123,ORD2500885,Wrong Item,7295,Rejected
+RET0124,ORD2500449,Wrong Item,5045,Rejected
+RET0125,ORD2500128,Wrong Item,4640,Approved
+RET0126,ORD2400344,Wrong Item,10081,Rejected
+RET0127,ORD2400174,Late Delivery,4481,Approved
+RET0128,ORD2401000,Defective,7052,Pending
+RET0129,ORD2500334,Wrong Item,8069,Rejected
+RET0130,ORD2400817,Wrong Item,8449,Pending
+RET0131,ORD2500849,Damaged Product,3477,Rejected
+RET0132,ORD2500878,Defective,1097,Rejected
+RET0133,ORD2500357,Late Delivery,3526,Pending
+RET0134,ORD2400235,Defective,6743,Approved
+RET0135,ORD2400792,Late Delivery,9695,Pending
+RET0136,ORD2500008,Late Delivery,8027,Pending
+RET0137,ORD2400542,Defective,7834,Approved
+RET0138,ORD2400816,Damaged Product,8236,Approved
+RET0139,ORD2500391,Wrong Item,3325,Pending
+RET0140,ORD2400426,Damaged Product,11227,Approved
+RET0141,ORD2400967,Damaged Product,7996,Approved
+RET0142,ORD2500849,Defective,9741,Rejected
+RET0143,ORD2400159,Late Delivery,3702,Rejected
+RET0144,ORD2500157,Wrong Item,11303,Rejected
+RET0145,ORD2400345,Late Delivery,3414,Rejected
+RET0146,ORD2400221,Customer Changed Mind,6185,Pending
+RET0147,ORD2500039,Wrong Item,6686,Approved
+RET0148,ORD2500860,Defective,11230,Pending
+RET0149,ORD2500947,Wrong Item,10537,Pending
+RET0150,ORD2500459,Damaged Product,2018,Pending
+RET0151,ORD2400256,Defective,2922,Approved
+RET0152,ORD2500904,Defective,9591,Approved
+RET0153,ORD2400179,Late Delivery,2774,Approved
+RET0154,ORD2500903,Customer Changed Mind,10164,Approved
+RET0155,ORD2400823,Damaged Product,4177,Rejected
+RET0156,ORD2500651,Late Delivery,3104,Rejected
+RET0157,ORD2500360,Late Delivery,5451,Pending
+RET0158,ORD2400816,Customer Changed Mind,9985,Approved
+RET0159,ORD2400830,Damaged Product,10907,Rejected
+RET0160,ORD2500488,Customer Changed Mind,1861,Approved
+RET0161,ORD2500959,Defective,4491,Pending
+RET0162,ORD2400485,Customer Changed Mind,5153,Approved
+RET0163,ORD2400932,Defective,9703,Pending
+RET0164,ORD2500949,Defective,7929,Approved
+RET0165,ORD2400359,Customer Changed Mind,2904,Rejected
+RET0166,ORD2500171,Defective,9708,Approved
+RET0167,ORD2400029,Wrong Item,1505,Rejected
+RET0168,ORD2500945,Damaged Product,2232,Rejected
+RET0169,ORD2400292,Customer Changed Mind,3966,Rejected
+RET0170,ORD2400285,Late Delivery,1047,Rejected
+RET0171,ORD2400451,Damaged Product,891,Pending
+RET0172,ORD2500091,Late Delivery,7872,Rejected
+RET0173,ORD2500130,Defective,6113,Approved
+RET0174,ORD2500896,Customer Changed Mind,4801,Approved
+RET0175,ORD2500313,Wrong Item,9790,Pending
+RET0176,ORD2400953,Defective,2533,Pending
+RET0177,ORD2500560,Customer Changed Mind,8954,Approved
+RET0178,ORD2500193,Customer Changed Mind,2597,Rejected
+RET0179,ORD2500585,Defective,2983,Rejected
+RET0180,ORD2400639,Late Delivery,11515,Pending
+RET0181,ORD2400216,Customer Changed Mind,6385,Pending
+RET0182,ORD2400440,Late Delivery,2508,Rejected
+RET0183,ORD2500284,Damaged Product,3911,Rejected
+RET0184,ORD2500967,Defective,9467,Rejected
+RET0185,ORD2400700,Defective,9499,Pending
+RET0186,ORD2400309,Customer Changed Mind,2340,Approved
+RET0187,ORD2500261,Defective,9643,Rejected
+RET0188,ORD2500288,Wrong Item,3908,Rejected
+RET0189,ORD2500448,Damaged Product,4581,Rejected
+RET0190,ORD2500173,Customer Changed Mind,4440,Rejected
+RET0191,ORD2400826,Defective,7635,Pending
+RET0192,ORD2400167,Wrong Item,738,Approved
+RET0193,ORD2400179,Defective,1551,Rejected
+RET0194,ORD2500243,Late Delivery,6613,Rejected
+RET0195,ORD2400548,Defective,1971,Approved
+RET0196,ORD2500444,Damaged Product,9461,Rejected
+RET0197,ORD2400918,Late Delivery,1891,Approved
+RET0198,ORD2400106,Defective,8392,Approved
+RET0199,ORD2400437,Defective,1710,Rejected
+RET0200,ORD2500052,Wrong Item,3753,Pending
